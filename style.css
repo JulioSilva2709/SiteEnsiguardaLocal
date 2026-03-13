@@ -47,3 +47,10 @@ li {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+.alinha_cards {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
